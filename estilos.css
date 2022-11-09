@@ -1,0 +1,22 @@
+body{
+    background-color: royalblue;
+}
+.titulos{
+    text-align: center;
+    color: black;
+}
+.subtitulos{
+    text-align: justify;
+    color: rgb(0, 0, 0);
+}
+.imagen{
+    text-align: center;
+    display: block;
+}
+.suma{
+    background-color: lightpink;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+}
